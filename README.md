@@ -93,3 +93,4 @@ Now making the activity that actually try to hide the mobile application from ap
 
 You can actually go under settings and once you are in settings, you can go on for applications or apps, and then you will be able to see the apps that are running in your environment. <br> So of course, this is the only way the user could detect that the mobile application is running.
 
+There's a lot more commands that we can do as part of this android hacking. Stay tuned for more valueable information to be shared with you :)
